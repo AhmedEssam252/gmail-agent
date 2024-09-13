@@ -1,2 +1,2 @@
-# gmail-agent
- using composio and crew-ai to make agent that send emails
+# gmail-Agent
+ using composio to make agent that send email to another user
