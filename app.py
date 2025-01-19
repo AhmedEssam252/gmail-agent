@@ -21,8 +21,8 @@ crewai_agent = Agent(
     llm=llm,
 )
 
-sender = "ahmed.essam.252252@gmail.com"
-receiver = "microahmed252@outlook.com"
+sender = ""
+receiver = ""
 
 
 task = Task(
